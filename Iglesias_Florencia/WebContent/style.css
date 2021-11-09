@@ -1,0 +1,48 @@
+h1 {
+	color: rgba(11, 31, 92, 0.975); 
+	text-align: right; letter-spacing: 15px;
+	font-size: 10000; 
+}
+
+h2 {
+	background-color: #728747f4;
+	color: white;
+}
+
+body {
+	background-color: rgba(176, 182, 188, 0.927);
+	font-size: x-large;
+}
+
+img.img_iglesia1{
+	width: 325px; height: 325px;
+}
+
+img.img_iglesia1{
+	float: left;
+}
+
+img.img_iglesias2{
+	width: 350px; height: 250px;
+}
+
+img.img_iglesias2{
+	display: block;
+	margin: auto;
+}
+
+img.img_iglesias3{
+	width:350px; height: 300px;
+}
+
+img.img_iglesias3{
+	float: right;
+}
+
+footer {
+	clear: both;
+}
+
+p {
+	font-family: sans-serif;
+}
