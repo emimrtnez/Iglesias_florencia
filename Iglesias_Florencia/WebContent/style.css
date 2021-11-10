@@ -1,5 +1,5 @@
 h1 {
-	color: rgba(11, 31, 92, 0.975); 
+	color: #0B1F5C; 
 	text-align: center; letter-spacing: 15px;
 	font-size: 10000; 
 }
@@ -10,7 +10,7 @@ h2 {
 }
 
 body {
-	background-color: rgba(176, 182, 188, 0.927);
+	background-color: #B0B6BC;
 	font-size: x-large;
 }
 
@@ -18,7 +18,7 @@ img.img_iglesia1{
 	width: 325px; height: 325px;
 }
 
-img.img_iglesia1{
+img.img_iglesia1{#0B1F5C
 	float: left;
 }
 
