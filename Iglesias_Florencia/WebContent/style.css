@@ -15,7 +15,9 @@ body {
 }
 
 img.img_iglesia1{
-	width: 300px; height: 300px;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
 }
 
 img.img_iglesia1{#0B1F5C
